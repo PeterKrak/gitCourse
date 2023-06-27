@@ -1,0 +1,1 @@
+Testovaci soubor na testovaní Git příkazů
